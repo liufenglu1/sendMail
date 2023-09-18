@@ -10,4 +10,4 @@ module.exports = {
   type: '1,3,9', // 和风天气-生活指数type
   tianXingKey: 'b995587e1a79f8fc53bce179b0710de1', // 天行数据的key
   startDay: '2016-10-8', // 在一起的日期
-}
+} 
