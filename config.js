@@ -3,7 +3,7 @@ module.exports = {
   fromDisplayText: '阿璐', // 收件箱展示的来件人名字
   fromDisplaySubText: '每日提醒', // 收件箱展示的次级标题
   user: '664023452@qq.com', // 发送者邮箱
-  pass: 'inbanghcdptbbcag', // 发送者邮箱MTP协议密码
+  pass: 'mxzahwspxdypbbij', // 发送者邮箱MTP协议密码
   to: '875200714@qq.com', // 发送到谁，填邮箱
   weatherKey: '4200e8f090484370b2ff5d4a1b3cf5eb', // 和风天气key
   location: '101200113',  // 和风天气-武汉洪山区的id
